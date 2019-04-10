@@ -11,6 +11,6 @@ public class SecurityConstants {
 
     //
     public static final long ACCESS_TOKEN_VALIDITY_SECONDS = 5 * 24 * 60 * 60;
-    public static final String SIGNING_KEY = "TrivagoAuthSearch@100";
+    public static final String SIGNING_KEY = "HotelAuthSearch@100";
 
 }
